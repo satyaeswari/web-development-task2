@@ -69,10 +69,10 @@ a:hover {
 
 @media screen and (max-width: 768px) {
     h1 {
-        font-size: 2rem; /* Adjusted for smaller screens */
+        font-size: 2rem;
     }
     .subtitle {
-        font-size: 1rem; /* Adjusted for smaller screens */
+        font-size: 1rem;
     }
     .container {
         padding: 10px;
@@ -85,9 +85,9 @@ a:hover {
 /* Additional Responsive Styles for Small Screens */
 @media screen and (max-width: 480px) {
     h1 {
-        font-size: 1.5rem; /* Further adjusted for smaller screens */
+        font-size: 1.5rem; 
     }
     .subtitle {
-        font-size: 0.875rem; /* Further adjusted for smaller screens */
+        font-size: 0.875rem;
     }
 }
